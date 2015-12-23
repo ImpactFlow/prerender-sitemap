@@ -1,0 +1,18 @@
+{
+  "name": "prerender-sitemap",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start"
+  },
+  "main": "lib/prerender-sitemap",
+  "bin": {
+    "prerender-sitemap": "./bin/prerender-sitemap"
+  },
+  "dependencies": {
+    "es6-promise": "3.0.2",
+    "sqlite3": "3.1.1",
+    "xml2js": "0.4.15"
+  },
+  "devDependencies": {},
+  "private": true
+}

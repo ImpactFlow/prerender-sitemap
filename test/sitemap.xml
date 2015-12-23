@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://impactflow.com</loc>
+        <priority>1.0</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://impactflow.com/giving-tuesday</loc>
+        <priority>0.5</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://impactflow.com/about</loc>
+        <priority>0.5</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://impactflow.com/business/4</loc>
+        <priority>0.5</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2015-02-19T04:07:55+00:00</lastmod>
+    </url>
+    <url>
+        <loc>https://impactflow.com/business/15</loc>
+        <priority>0.5</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2014-12-10T19:45:37+00:00</lastmod>
+    </url>
+    <url>
+        <loc>https://impactflow.com/business/22</loc>
+        <priority>0.5</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2015-02-11T00:18:59+00:00</lastmod>
+    </url>
+</urlset>
